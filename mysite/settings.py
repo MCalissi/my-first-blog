@@ -25,7 +25,7 @@ SECRET_KEY = 'bb1%hml(3ein-19r93qk=w6!-xopzq%q614d34rf%9rm!gemep'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ["127.0.0.1", "<your_username>.pythonnamyhere.com"]
+ALLOWED_HOSTS = ["127.0.0.1", "MCalissi.pythonnamyhere.com"]
 
 
 # Application definition
@@ -107,7 +107,7 @@ AUTH_PASSWORD_VALIDATORS = [
 
 LANGUAGE_CODE = 'en-us'
 
-TIME_ZONE = 'America/Sao_Paulo '
+TIME_ZONE = 'America/Sao_Paulo'
 
 USE_I18N = True
 
